@@ -143,6 +143,18 @@ when the destination page may contain richer text/transcript. If a browser/plugi
 and an agent-generated substitute is used, mark it explicitly as synthetic and do not treat it as equivalent
 to a user/plugin-saved raw source.
 
+#### Ingest completion gate
+
+Do not call an ingest complete merely because raw files exist or source pages were stubbed. Before reporting
+completion, verify and state:
+
+- each expected source has a standalone raw file when the user expects one;
+- each raw file is registered in `wiki/source-register.md`;
+- each new source page contains source-specific synthesis from the raw body/transcript, not generic routing
+  text;
+- affected concept/candidate pages, `index.md`, and `log.md` were updated;
+- a link/coverage check found no missing register rows or dangling wikilinks.
+
 ### KB ingest (agent knowledge — no `raw/` source required)
 
 Use when recording a technique, framework update, achievement, or best practice learned from a session,
