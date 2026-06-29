@@ -30,6 +30,11 @@ agents, profiles, background agents, Skills Hub, cron jobs, Telegram, VPS, and M
 architecture vocabulary, but it is probably too heavy to be the default memory product under the simplicity
 constraint.
 
+[[source-company-os-claude-code]] adds a practical company harness pattern: GitHub as the durable operating
+system, playbooks as the audited workflow layer, skills/agents as the executable layer, and Slack/email as
+the user-facing surface. That is useful because it separates storage from delivery while keeping the human
+entrypoint inside the tools people already use.
+
 ## Implication for this project
 
 The product under evaluation should be described as:
@@ -44,6 +49,7 @@ one operation pattern being dogfooded while candidates are evaluated.
 ## Cross-links
 
 [[source-agent-harness]] · [[source-openai-harness-engineering-codex]] ·
+[[source-company-os-claude-code]] ·
 [[source-smm-ai-hermes]] ·
 [[source-l8-principal-s-agentic-engineering-workflow]] · [[source-hermes-agent-under-claude-code-is-insane]] ·
 [[source-hermes-agent-zero-to-personal-ai-assistant-1-hour-course]] ·

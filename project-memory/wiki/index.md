@@ -84,6 +84,7 @@ The vault holds two sections: **Comparison Project** (local-memory selection) an
 - [[source-the-one-ai-writing-hack-nobody-talks-about]] — project-room workflow: source inventory, missing-context lists, duplicate checks, and files as reasoning canvas.
 - [[source-the-new-hermes-agent-update-has-me-speechless]] — Hermes update: desktop app, background agents, profile builder, Skills Hub, and self-improvement risks.
 - [[source-smm-ai-hermes]] — Telegram-saved YouTube transcript: Как собрать SMM AI-агента в Hermes для контента и соцсетей.
+- [[source-company-os-claude-code]] — GitHub-based Company OS, playbook-to-skill pipeline, Slack delivery, captain model, AI Ops team, and four-level maturity framing.
 - [[source-register]] — stable source IDs and raw-file tracking for ingests.
 - [[research-questions]] — open verification questions created during ingest.
 

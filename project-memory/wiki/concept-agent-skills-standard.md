@@ -35,6 +35,11 @@ repeatable instruction folders with specific names/descriptions and heavier exam
 files. This aligns with [[source-anthropic-guide-building-skills]], but does not add new cross-surface
 proof.
 
+[[source-company-os-claude-code]] adds the company-rollout angle: skills are not just reusable prompts but
+the operational residue of audited playbooks. The useful pattern is "ontology -> playbook -> human/agent
+audit -> skills", with the goal of moving the AI-native 1%'s working methods into a shared delivery layer
+the rest of the company can actually use.
+
 The Telegram transcript redo adds three practical cautions. [[source-l8-principal-s-agentic-engineering-workflow]]
 and [[source-smm-ai-hermes]] both warn that skills can hurt the agent when too many are loaded or when their
 scope is unclear. [[source-5-skills-to-build-an-ai-operating-system-like-the-1-full-guide]] is useful as an
@@ -46,6 +51,7 @@ repo/install test before it can count as proof.
 
 [[source-agent-skills-standard]] · [[source-anthropic-guide-building-skills]] ·
 [[source-harness-engineering-ai-business]] · [[source-anthropic-teams-claude-code]] ·
+[[source-company-os-claude-code]] ·
 [[source-l8-principal-s-agentic-engineering-workflow]] · [[source-smm-ai-hermes]] ·
 [[source-introducing-visual-plan-rich-plans-for-claude-code-codex]] ·
 [[concept-agent-harness]] · [[concept-agent-agnostic-gap]] ·

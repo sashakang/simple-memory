@@ -80,3 +80,12 @@ the placeholder source pages with transcript-backed summaries. Updated [[source-
 [[concept-storage-injection-recall-matrix]], [[candidate-karpathy-llm-wiki]], [[research-questions]], and
 [[index]]. Key correction: the raw transcript files are now the evidence layer; Telegram previews are only
 triage metadata.
+
+## [2026-06-29] ingest | How to Build a Company OS in Claude Code
+
+Fetched the YouTube auto-generated transcript and metadata for Jiaona Zhang's Company OS interview, saved
+the standalone raw file, and added [[source-company-os-claude-code]]. Updated [[source-register]],
+[[index]], [[concept-agent-skills-standard]], [[concept-agent-harness]],
+[[concept-context-engineering]], and [[concept-agent-legibility]]. Net new evidence: GitHub files +
+playbooks + skills + Slack delivery can be framed as one company operating layer, with AI Ops as the
+ownership function and "captains" as end-to-end feature owners.

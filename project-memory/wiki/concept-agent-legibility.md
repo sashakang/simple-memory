@@ -47,10 +47,15 @@ transcripts are available.
 private AI chats do not teach the organization. Shared, inspectable work surfaces preserve the scoping,
 context loading, corrections, and judgment trail.
 
+[[source-company-os-claude-code]] pushes this one step further: the "Company OS" is valuable exactly
+because it lives in GitHub as a shared operating layer instead of inside the heads of the AI-native 1%.
+That makes workflows inspectable, teachable, and easier to turn into skills and Slack-facing automations.
+
 ## Cross-links
 
 [[source-openai-harness-engineering-codex]] · [[concept-context-engineering]] ·
 [[source-telegram-saved-ai-youtube-videos]] · [[source-google-okf]] · [[source-claude-managed-agents-memory]] ·
+[[source-company-os-claude-code]] ·
 [[source-how-this-ex-meta-l8-engineer-ships-40-prs-a-day-with-ai-agents-kun-che]] ·
 [[source-l8-principal-s-agentic-engineering-workflow]] ·
 [[source-i-built-a-deck-with-ai-then-made-a-second-ai-attack-it]] ·
