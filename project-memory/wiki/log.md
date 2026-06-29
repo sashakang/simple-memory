@@ -89,3 +89,12 @@ the standalone raw file, and added [[source-company-os-claude-code]]. Updated [[
 [[concept-context-engineering]], and [[concept-agent-legibility]]. Net new evidence: GitHub files +
 playbooks + skills + Slack delivery can be framed as one company operating layer, with AI Ops as the
 ownership function and "captains" as end-to-end feature owners.
+
+## [2026-06-29] ingest | How to Build A Self-Improving System with Claude Code
+
+Fetched the YouTube auto-generated transcript and metadata for Austin Marchese's B.U.I.L.D. framework video,
+saved the standalone raw file, and added [[source-self-improving-system-claude-code]]. Updated
+[[source-register]], [[index]], [[concept-context-engineering]], [[concept-loop-engineering]], and
+[[concept-agent-skills-standard]]. Net new evidence: file-backed knowledge plus skill-driven ingest
+pipelines can support bounded self-improvement loops, but only when they are attached to real usage signals
+and explicit feedback.

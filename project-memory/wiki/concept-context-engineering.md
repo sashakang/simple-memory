@@ -44,6 +44,11 @@ the durable context layer, but high-adoption delivery happens through just-in-ti
 rather than forcing everyone into a separate AI tab. That is strong evidence for separating stored context
 from the surface where the task is triggered.
 
+[[source-self-improving-system-claude-code]] adds a useful sequencing rule: first build the file-backed
+knowledge base, then bulk-ingest historical material, then attach inflow pipelines for new information. In
+other words, context infrastructure should be bootstrapped in layers rather than pretending that a loop can
+improve an empty or half-populated store.
+
 [[source-smm-ai-hermes]] remains the clearest correction to preview-first classification. The Telegram preview
 was insufficient, but the full transcript contains concrete context-engineering ideas: split broad work into
 specialized agents to avoid context bloat, limit visible skills to relevant names/descriptions, use a
@@ -55,6 +60,7 @@ wiki/source-of-truth layer, and require agents to ask for missing information in
 [[source-telegram-saved-ai-youtube-videos]] · [[source-claude-managed-agents-memory]] ·
 [[source-google-okf]] · [[source-karpathy-obsidian-no-rag-wiki]] · [[source-anthropic-teams-claude-code]] ·
 [[source-company-os-claude-code]] ·
+[[source-self-improving-system-claude-code]] ·
 [[source-l8-principal-s-agentic-engineering-workflow]] · [[source-master-all-7-levels-of-claude-code-memory]] ·
 [[source-the-7-levels-of-using-claude-context-explained-in-24-min]] · [[source-smm-ai-hermes]] ·
 [[concept-context-rot]] · [[concept-agent-legibility]] ·

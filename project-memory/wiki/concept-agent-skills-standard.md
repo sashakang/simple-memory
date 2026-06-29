@@ -40,6 +40,10 @@ the operational residue of audited playbooks. The useful pattern is "ontology ->
 audit -> skills", with the goal of moving the AI-native 1%'s working methods into a shared delivery layer
 the rest of the company can actually use.
 
+[[source-self-improving-system-claude-code]] adds the ingest-operations angle: each recurring data pipeline
+should begin with a tested skill, not an ad hoc prompt. That matches the repo's bias toward explicit,
+repeatable operations rather than invisible agent behavior.
+
 The Telegram transcript redo adds three practical cautions. [[source-l8-principal-s-agentic-engineering-workflow]]
 and [[source-smm-ai-hermes]] both warn that skills can hurt the agent when too many are loaded or when their
 scope is unclear. [[source-5-skills-to-build-an-ai-operating-system-like-the-1-full-guide]] is useful as an
@@ -52,6 +56,7 @@ repo/install test before it can count as proof.
 [[source-agent-skills-standard]] · [[source-anthropic-guide-building-skills]] ·
 [[source-harness-engineering-ai-business]] · [[source-anthropic-teams-claude-code]] ·
 [[source-company-os-claude-code]] ·
+[[source-self-improving-system-claude-code]] ·
 [[source-l8-principal-s-agentic-engineering-workflow]] · [[source-smm-ai-hermes]] ·
 [[source-introducing-visual-plan-rich-plans-for-claude-code-codex]] ·
 [[concept-agent-harness]] · [[concept-agent-agnostic-gap]] ·

@@ -31,9 +31,15 @@ compound. For this wiki, that means no invisible "make the wiki better" loop. Go
 mechanical and auditable: raw/register coverage, dangling wikilinks, missing index rows, stale questions, and
 source-backed claim checks.
 
+[[source-self-improving-system-claude-code]] adds a practical framing that fits the same caution: the loop
+should learn from real usage and explicit feedback, not from a fantasy of total autonomy. Its strongest
+useful idea is to couple loops to tested ingest skills and concrete pipelines first, then compress feedback
+cycles once the system is in use.
+
 ## Cross-links
 
 [[source-loop-engineering]] · [[source-stop-prompting-claude-start-loop-engineering]] ·
 [[source-finally-agent-loops-clearly-explained]] · [[source-claude-code-works-better-with-loops-not-prompts]] ·
 [[source-the-creators-of-claude-code-and-openclaw-don-t-prompt-their-agents-any]] ·
+[[source-self-improving-system-claude-code]] ·
 [[concept-agent-harness]] · [[concept-agent-legibility]]
