@@ -49,6 +49,10 @@ knowledge base, then bulk-ingest historical material, then attach inflow pipelin
 other words, context infrastructure should be bootstrapped in layers rather than pretending that a loop can
 improve an empty or half-populated store.
 
+[[source-news-vacuum-agent-idea]] adds a domain-specific variant of the same rule: define the bounded signal
+sources, the filtering behavior, the memory/store behavior, and the notification outputs first. That keeps a
+news-ingest agent from degenerating into an unbounded "read everything" system.
+
 [[source-smm-ai-hermes]] remains the clearest correction to preview-first classification. The Telegram preview
 was insufficient, but the full transcript contains concrete context-engineering ideas: split broad work into
 specialized agents to avoid context bloat, limit visible skills to relevant names/descriptions, use a
@@ -61,6 +65,7 @@ wiki/source-of-truth layer, and require agents to ask for missing information in
 [[source-google-okf]] · [[source-karpathy-obsidian-no-rag-wiki]] · [[source-anthropic-teams-claude-code]] ·
 [[source-company-os-claude-code]] ·
 [[source-self-improving-system-claude-code]] ·
+[[source-news-vacuum-agent-idea]] ·
 [[source-l8-principal-s-agentic-engineering-workflow]] · [[source-master-all-7-levels-of-claude-code-memory]] ·
 [[source-the-7-levels-of-using-claude-context-explained-in-24-min]] · [[source-smm-ai-hermes]] ·
 [[concept-context-rot]] · [[concept-agent-legibility]] ·

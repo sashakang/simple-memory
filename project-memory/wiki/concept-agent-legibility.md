@@ -51,11 +51,17 @@ context loading, corrections, and judgment trail.
 because it lives in GitHub as a shared operating layer instead of inside the heads of the AI-native 1%.
 That makes workflows inspectable, teachable, and easier to turn into skills and Slack-facing automations.
 
+[[source-news-vacuum-agent-idea]] adds a direct documentation lesson: the speaker argues that documentation
+must come before implementation specs because specs are only the realization layer. That maps well to this
+vault's bias that durable, inspectable source documents should exist before agents are asked to implement
+features from them.
+
 ## Cross-links
 
 [[source-openai-harness-engineering-codex]] · [[concept-context-engineering]] ·
 [[source-telegram-saved-ai-youtube-videos]] · [[source-google-okf]] · [[source-claude-managed-agents-memory]] ·
 [[source-company-os-claude-code]] ·
+[[source-news-vacuum-agent-idea]] ·
 [[source-how-this-ex-meta-l8-engineer-ships-40-prs-a-day-with-ai-agents-kun-che]] ·
 [[source-l8-principal-s-agentic-engineering-workflow]] ·
 [[source-i-built-a-deck-with-ai-then-made-a-second-ai-attack-it]] ·

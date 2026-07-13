@@ -98,3 +98,12 @@ saved the standalone raw file, and added [[source-self-improving-system-claude-c
 [[concept-agent-skills-standard]]. Net new evidence: file-backed knowledge plus skill-driven ingest
 pipelines can support bounded self-improvement loops, but only when they are attached to real usage signals
 and explicit feedback.
+
+## [2026-07-13] ingest | Идея, функции, архитектура. Есть ли смысл?
+
+Fetched the Russian YouTube auto-generated transcript and metadata for the "news vacuum" agent concept
+video, saved the standalone raw file, and added [[source-news-vacuum-agent-idea]]. Updated
+[[source-register]], [[index]], [[concept-agent-harness]], [[concept-agent-legibility]], and
+[[concept-context-engineering]]. Net new evidence: start from a bounded information-filtering problem, keep
+documentation above specs, and prefer self-hosted inspectable architecture over vague autonomous-agent
+ambition.

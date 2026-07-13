@@ -35,6 +35,11 @@ system, playbooks as the audited workflow layer, skills/agents as the executable
 the user-facing surface. That is useful because it separates storage from delivery while keeping the human
 entrypoint inside the tools people already use.
 
+[[source-news-vacuum-agent-idea]] adds a smaller-scale but useful harness lesson: start from the incoming
+signal sources and required outputs first, then derive documentation, specs, and only then the technical
+architecture. That is a cleaner harness-design sequence than starting from the agent runtime and searching
+for a purpose afterward.
+
 ## Implication for this project
 
 The product under evaluation should be described as:
@@ -50,6 +55,7 @@ one operation pattern being dogfooded while candidates are evaluated.
 
 [[source-agent-harness]] · [[source-openai-harness-engineering-codex]] ·
 [[source-company-os-claude-code]] ·
+[[source-news-vacuum-agent-idea]] ·
 [[source-smm-ai-hermes]] ·
 [[source-l8-principal-s-agentic-engineering-workflow]] · [[source-hermes-agent-under-claude-code-is-insane]] ·
 [[source-hermes-agent-zero-to-personal-ai-assistant-1-hour-course]] ·
