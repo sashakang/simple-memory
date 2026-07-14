@@ -36,10 +36,17 @@ should learn from real usage and explicit feedback, not from a fantasy of total 
 useful idea is to couple loops to tested ingest skills and concrete pipelines first, then compress feedback
 cycles once the system is in use.
 
+[[source-four-levels-of-loop-engineering]] sharpens the feedback model. Not all checks are equal:
+computational checks (tests, linters, type checks, structural analysis) are cheap and deterministic, while
+inferential checks are slower and model-based. The source also makes three governance points explicit: weak
+checkers make `/goal` look smarter than it is, concurrent work needs isolation such as worktrees, and loop
+design is incomplete if it ignores soft caps, token cost, and where a human should stay in the loop.
+
 ## Cross-links
 
 [[source-loop-engineering]] · [[source-stop-prompting-claude-start-loop-engineering]] ·
 [[source-finally-agent-loops-clearly-explained]] · [[source-claude-code-works-better-with-loops-not-prompts]] ·
 [[source-the-creators-of-claude-code-and-openclaw-don-t-prompt-their-agents-any]] ·
 [[source-self-improving-system-claude-code]] ·
+[[source-four-levels-of-loop-engineering]] ·
 [[concept-agent-harness]] · [[concept-agent-legibility]]

@@ -107,3 +107,11 @@ video, saved the standalone raw file, and added [[source-news-vacuum-agent-idea]
 [[concept-context-engineering]]. Net new evidence: start from a bounded information-filtering problem, keep
 documentation above specs, and prefer self-hosted inspectable architecture over vague autonomous-agent
 ambition.
+
+## [2026-07-14] ingest | The 4 Levels of Loop Engineering Clearly Explained
+
+Fetched the YouTube auto-generated transcript and metadata for the loop-engineering explainer, saved the
+standalone raw file, and added [[source-four-levels-of-loop-engineering]]. Updated [[source-register]],
+[[index]], and [[concept-loop-engineering]]. Net new evidence: checker quality matters more than loop shape;
+separate computational from inferential feedback, isolate concurrent work with worktrees, and treat caps,
+cost, and human review as part of the loop design.

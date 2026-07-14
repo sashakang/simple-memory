@@ -87,6 +87,7 @@ The vault holds two sections: **Comparison Project** (local-memory selection) an
 - [[source-company-os-claude-code]] — GitHub-based Company OS, playbook-to-skill pipeline, Slack delivery, captain model, AI Ops team, and four-level maturity framing.
 - [[source-self-improving-system-claude-code]] — B.U.I.L.D. framework: knowledge base, bulk ingest, inflow pipelines, bounded improvement loop, and anti-overengineering rule.
 - [[source-news-vacuum-agent-idea]] — Russian-language "news vacuum" agent concept: bounded functions, documentation-first design, specs-from-docs, and self-hosted architecture.
+- [[source-four-levels-of-loop-engineering]] — loop-control explainer: checker quality, `/goal` blind spots, computational vs inferential checks, worktrees, caps, cost, and human oversight.
 - [[source-register]] — stable source IDs and raw-file tracking for ingests.
 - [[research-questions]] — open verification questions created during ingest.
 
