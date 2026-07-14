@@ -56,12 +56,17 @@ must come before implementation specs because specs are only the realization lay
 vault's bias that durable, inspectable source documents should exist before agents are asked to implement
 features from them.
 
+[[source-ultimate-second-brain]] adds a second useful legibility angle: if the knowledge base is just local
+markdown files, the UI can change without taking the knowledge away. That is exactly the kind of
+inspectability and tool independence this project wants from any serious memory layer.
+
 ## Cross-links
 
 [[source-openai-harness-engineering-codex]] · [[concept-context-engineering]] ·
 [[source-telegram-saved-ai-youtube-videos]] · [[source-google-okf]] · [[source-claude-managed-agents-memory]] ·
 [[source-company-os-claude-code]] ·
 [[source-news-vacuum-agent-idea]] ·
+[[source-ultimate-second-brain]] ·
 [[source-how-this-ex-meta-l8-engineer-ships-40-prs-a-day-with-ai-agents-kun-che]] ·
 [[source-l8-principal-s-agentic-engineering-workflow]] ·
 [[source-i-built-a-deck-with-ai-then-made-a-second-ai-attack-it]] ·

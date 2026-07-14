@@ -115,3 +115,11 @@ standalone raw file, and added [[source-four-levels-of-loop-engineering]]. Updat
 [[index]], and [[concept-loop-engineering]]. Net new evidence: checker quality matters more than loop shape;
 separate computational from inferential feedback, isolate concurrent work with worktrees, and treat caps,
 cost, and human review as part of the loop design.
+
+## [2026-07-14] ingest | Claude Built the Ultimate Second Brain
+
+Fetched the YouTube auto-generated transcript and metadata for the second-brain walkthrough, saved the
+standalone raw file, and added [[source-ultimate-second-brain]]. Updated [[source-register]], [[index]],
+[[candidate-karpathy-llm-wiki]], [[concept-context-engineering]], and [[concept-agent-legibility]]. Net new
+evidence: the Karpathy-style raw/wiki pattern remains strong as a local-first, legible synthesis system,
+with Obsidian as an optional UI rather than the storage dependency.

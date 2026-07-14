@@ -51,6 +51,13 @@ flush promotes lessons into the wiki; session-start loads `AGENTS.md` and the wi
 [[source-karpathy-obsidian-no-rag-wiki]] gives a fuller walkthrough of raw/wiki/schema, ingest/query/lint,
 source citations, index maintenance, and scale caveats.
 
+[[source-ultimate-second-brain]] adds a newer, more operator-facing walkthrough of the same pattern. The
+useful reinforcement is practical rather than theoretical: Obsidian is presented as an optional local UI for
+plain markdown, the raw/wiki split is explicit, graph view helps human navigation, and Kanban sits as an
+operations layer beside the wiki rather than replacing it. That strengthens the pattern as a real workflow,
+though it still does not by itself prove the pattern as the final operational memory product across all
+required surfaces.
+
 This strengthens the pattern as a research and synthesis system, and it strengthens hooks+logs as a possible
 operational-memory layer. It does **not** close the product decision: the described implementations are still
 Claude Code / Claude Agent SDK centered, not proven across Codex CLI and Claude Cowork.
@@ -68,4 +75,4 @@ pieces that determine whether the knowledge is actually used.
 [[concept-agent-skills-standard]] · [[concept-agent-legibility]] ·
 [[source-telegram-saved-ai-youtube-videos]] · [[source-self-evolving-claude-code-memory]] ·
 [[source-karpathy-obsidian-no-rag-wiki]] · [[source-master-all-7-levels-of-claude-code-memory]] ·
-[[source-l8-principal-s-agentic-engineering-workflow]]
+[[source-l8-principal-s-agentic-engineering-workflow]] · [[source-ultimate-second-brain]]

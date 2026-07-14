@@ -53,6 +53,11 @@ improve an empty or half-populated store.
 sources, the filtering behavior, the memory/store behavior, and the notification outputs first. That keeps a
 news-ingest agent from degenerating into an unbounded "read everything" system.
 
+[[source-ultimate-second-brain]] reinforces progressive disclosure through file structure rather than prompt
+bulk. Raw data lands in the vault, the wiki organizes it, and outputs are generated from that organized
+layer. Obsidian's graph and folder structure are not the point by themselves; they are navigation aids for a
+markdown knowledge base the agent can keep extending.
+
 [[source-smm-ai-hermes]] remains the clearest correction to preview-first classification. The Telegram preview
 was insufficient, but the full transcript contains concrete context-engineering ideas: split broad work into
 specialized agents to avoid context bloat, limit visible skills to relevant names/descriptions, use a
@@ -66,6 +71,7 @@ wiki/source-of-truth layer, and require agents to ask for missing information in
 [[source-company-os-claude-code]] ·
 [[source-self-improving-system-claude-code]] ·
 [[source-news-vacuum-agent-idea]] ·
+[[source-ultimate-second-brain]] ·
 [[source-l8-principal-s-agentic-engineering-workflow]] · [[source-master-all-7-levels-of-claude-code-memory]] ·
 [[source-the-7-levels-of-using-claude-context-explained-in-24-min]] · [[source-smm-ai-hermes]] ·
 [[concept-context-rot]] · [[concept-agent-legibility]] ·
