@@ -123,3 +123,16 @@ standalone raw file, and added [[source-ultimate-second-brain]]. Updated [[sourc
 [[candidate-karpathy-llm-wiki]], [[concept-context-engineering]], and [[concept-agent-legibility]]. Net new
 evidence: the Karpathy-style raw/wiki pattern remains strong as a local-first, legible synthesis system,
 with Obsidian as an optional UI rather than the storage dependency.
+
+## [2026-07-28] ingest | The greatest AI tool ever??
+
+Fetched the YouTube auto-generated transcript and metadata for the ChatGPT Voice workflow video, saved the
+standalone raw file, and added [[source-chatgpt-voice-mode-workflows]]. Updated [[source-register]] and
+[[index]]. Routed the durable lesson into [[kb-chatgpt-voice-workflows]] instead of the comparison project:
+voice looks useful as a low-friction workflow surface, but it is not memory-architecture evidence.
+
+## [2026-07-28] kb-ingest | ChatGPT Voice workflows
+
+Created [[kb-chatgpt-voice-workflows]] as the first KB page. Captured the durable lesson that voice is best
+treated as an interface layer for capture/delegation, with a main desktop execution environment behind it,
+not as the durable memory layer itself.

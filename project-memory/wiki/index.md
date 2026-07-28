@@ -89,6 +89,7 @@ The vault holds two sections: **Comparison Project** (local-memory selection) an
 - [[source-news-vacuum-agent-idea]] — Russian-language "news vacuum" agent concept: bounded functions, documentation-first design, specs-from-docs, and self-hosted architecture.
 - [[source-four-levels-of-loop-engineering]] — loop-control explainer: checker quality, `/goal` blind spots, computational vs inferential checks, worktrees, caps, cost, and human oversight.
 - [[source-ultimate-second-brain]] — Karpathy-style second-brain walkthrough: local-first Obsidian markdown vault, raw/wiki split, graph view, ingest flow, Kanban, and output layer.
+- [[source-chatgpt-voice-mode-workflows]] — ChatGPT Voice workflow commentary: hands-free capture, conversational delegation, and headquarters-computer control pattern.
 - [[source-register]] — stable source IDs and raw-file tracking for ingests.
 - [[research-questions]] — open verification questions created during ingest.
 
@@ -103,4 +104,4 @@ The vault holds two sections: **Comparison Project** (local-memory selection) an
 Durable, general agent knowledge — techniques, frameworks, achievements, best practices — across sessions.
 Not scoped to the comparison. Pages are `kb-<topic>.md`. Add via the **KB ingest** op in `CLAUDE.md`.
 
-- _none yet_ — populated by agents as real agent-knowledge is recorded.
+ - [[kb-chatgpt-voice-workflows]] — voice as a serious AI workflow surface: low-friction capture, conversational tasking, and remote control of a main execution machine.
