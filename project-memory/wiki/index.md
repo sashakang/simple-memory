@@ -101,6 +101,8 @@ The vault holds two sections: **Comparison Project** (local-memory selection) an
 
 # Knowledge Base (agent knowledge)
 
+- [[kb-china]] — China sources; includes a saved YouTube link awaiting transcript and review.
+
 Durable, general agent knowledge — techniques, frameworks, achievements, best practices — across sessions.
 Not scoped to the comparison. Pages are `kb-<topic>.md`. Add via the **KB ingest** op in `CLAUDE.md`.
 
