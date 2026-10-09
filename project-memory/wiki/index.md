@@ -106,4 +106,8 @@ The vault holds two sections: **Comparison Project** (local-memory selection) an
 Durable, general agent knowledge — techniques, frameworks, achievements, best practices — across sessions.
 Not scoped to the comparison. Pages are `kb-<topic>.md`. Add via the **KB ingest** op in `CLAUDE.md`.
 
+## Intake awaiting review
+
+- `project-memory/raw/telegram-inbox/` — immutable Telegram link captures saved before analysis; pending items must not be described as fully ingested.
+
  - [[kb-chatgpt-voice-workflows]] — voice as a serious AI workflow surface: low-friction capture, conversational tasking, and remote control of a main execution machine.
