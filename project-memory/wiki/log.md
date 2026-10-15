@@ -136,3 +136,11 @@ voice looks useful as a low-friction workflow surface, but it is not memory-arch
 Created [[kb-chatgpt-voice-workflows]] as the first KB page. Captured the durable lesson that voice is best
 treated as an interface layer for capture/delegation, with a main desktop execution environment behind it,
 not as the durable memory layer itself.
+
+## [2026-10-15] ingest | Telegram backlog, August-October 2026
+
+Reviewed the recovered Telegram intake backlog and two newer automatic captures. Resolved metadata for all
+13 YouTube videos and retrieved captions for three before YouTube returned HTTP 429 for the remaining
+caption requests. Added [[source-telegram-backlog-2026-10]] with source-specific synthesis, routed durable
+findings into existing skills/context/loop/harness concepts, kept China and career preparation as separate
+tracks, and recorded evidence limits instead of treating descriptions as transcripts.

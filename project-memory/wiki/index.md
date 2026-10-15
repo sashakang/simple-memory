@@ -40,6 +40,7 @@ The vault holds two sections: **Comparison Project** (local-memory selection) an
 
 ## Sources (one summary page per raw source in `raw/`)
 
+- [[source-telegram-backlog-2026-10]] — reviewed August-October Telegram backlog covering skills/context, loops, swarms, hosted coordinators, AI OS, China, and research-career sources; transcript limits are explicit.
 - [[source-every-cc-memory-system-compared]] — Simon Scrapes YouTube survey; six levels of CC memory; frames (doesn't dislodge) the OM decision.
 - [[source-best-claude-memory-system]] — Simon Scrapes hybrid stack: automatic summarized storage, Hermes-style capped injection, hybrid semantic recall + cited answers.
 - [[source-claude-second-brain-levels]] — Nate Herk five-level second-brain taxonomy; choose the lowest level that solves the pain.
