@@ -7,7 +7,7 @@
 
 ## Review status
 
-The backlog contained 13 YouTube videos, two X posts, two official documentation pages, and three career-study pages. YouTube metadata was resolved for every video. English captions were retrieved for three videos; YouTube rate-limited the remaining caption requests with HTTP 429. Those entries are classified from titles, descriptions, chapters, and linked primary sources, not represented as transcript-complete.
+The backlog contained 13 YouTube videos, two X posts, three official documentation pages, and three career-study pages. YouTube metadata was resolved for every video. English captions were retrieved for three videos; YouTube rate-limited the remaining caption requests with HTTP 429. Those entries are classified from titles, descriptions, chapters, and linked primary sources, not represented as transcript-complete.
 
 ## Durable findings
 
